@@ -1,5 +1,6 @@
 20170911 Tetsu Otter
 <br><br>
+<a href='https://docs.python.jp/3/library/struct.html'>https://docs.python.jp/3/library/struct.html</a>ここを参考にチャレンジしてみると解析完了するかもしれない。<br><br>
 2017年09月11日現在の仕様<br>
 00.定数(0xf0f0fefe)<br>
 01.不明(おそらく現在位置だけど値の変化から推測不可)<br>
